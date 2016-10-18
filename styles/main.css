@@ -1,0 +1,35 @@
+center {
+	margin-top: 15%;
+}
+
+#search-wrap {
+	width: 638px;
+	heigth: 50px;
+	border-color: blue;
+	padding: 3px;
+	
+}
+
+#text {
+	width: 100%;
+	height: 100%;
+}
+
+#btn-wrap {
+	margin-top: 30px;
+}
+
+#search-btn {
+	padding: 5px 10px;
+	background-color: #f2f2f2;
+	color: #757575;
+	margin-right: 5px;
+	border: 1px solid #f2f2f2;
+}
+
+#lucky {
+	padding: 5px 10px;
+	background-color: #f2f2f2;
+	color: #757575;
+	border: 1px solid #f2f2f2;
+}
