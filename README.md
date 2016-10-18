@@ -1,0 +1,1 @@
+This project attempts to mimic Google's homepage. It is designed for practice using HTML structure and CSS styling.
